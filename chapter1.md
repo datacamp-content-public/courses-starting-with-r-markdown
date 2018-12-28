@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Starting Markdown'
+description: 'Introduction to markdown.'
 ---
 
 ## Example coding exercise
@@ -13,13 +13,13 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Markdown is a system for writing text documents that is designed to be easier than html.  It is designed based on a more generic system called Markdown with some special modifications to make it work with R.
 
 `@instructions`
-
+Let's start by creating a totally blank markdown file called myfirstfile.rmd.    Do this by entering file.edit("~/myfirstfile.rmd")  in the console.
 
 `@hint`
-
+Type the code exactly as given
 
 `@pre_exercise_code`
 ```{r}
@@ -28,15 +28,16 @@ This is an example exercise.
 
 `@sample_code`
 ```{r}
-
+file.edit("~/myfirstfile.rmd")
 ```
 
 `@solution`
 ```{r}
-
+file.edit("~/myfirstfile.rmd")
 ```
 
 `@sct`
 ```{r}
+
 
 ```
