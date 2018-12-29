@@ -39,5 +39,4 @@ file.edit("~/myfirstfile.rmd")
 `@sct`
 ```{r}
 
-
 ```
